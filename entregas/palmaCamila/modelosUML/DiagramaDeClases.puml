@@ -13,6 +13,7 @@ Table o-- Index
 Table -- Trigger
 Table o-- Constraint
 Table o-- ForeignKey
+Table -left-* Schema
 
 ForeignKey *-- Column
 PrimaryKey *-- Column
