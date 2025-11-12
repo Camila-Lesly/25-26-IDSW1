@@ -1,4 +1,0 @@
-# Actores
-
-- Administrador
-- Tiempo
